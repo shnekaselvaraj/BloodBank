@@ -129,7 +129,8 @@ public class NewuserRegistration {
 		{
 			System.out.println("User Not Updated Successfully");
 		}
-
+		
+		System.out.println("Thank you");
 		return "redirect:/login";
 		
 	}
